@@ -1,4 +1,4 @@
-package com.khayrul.playground
+package com.khayrultw.playground
 
 import org.junit.Test
 
